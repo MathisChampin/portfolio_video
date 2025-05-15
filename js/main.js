@@ -9,17 +9,17 @@ const videoData = [
     {
       title: 'Bande-annonce de l’Histoire de la ventilation mécanique à domicile',
       thumbnail: 'thumbnails/thumb_homeventilation_card.jpg',
-      videoSrc: 'iframe:https://streamable.com/e/kqoaqb?autoplay=1&muted=1',
+      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/final_2clips_trailer.mp4',
     },
     {
       title: 'Oxynov',
       thumbnail: 'thumbnails/thumb_oxynov_card.png',
-      videoSrc: 'iframe:https://streamable.com/e/bw48ld?autoplay=1&muted=1',
+      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/oxynov.mp4',
     },
     {
       title: 'Salon du Bourget UMANN 2023',
       thumbnail: 'thumbnails/thumb_bourget_card.png',
-      videoSrc: 'iframe:https://streamable.com/e/h485b4?autoplay=1&muted=1',
+      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/salon_du_bourget.mp4',
     },
   ];
   

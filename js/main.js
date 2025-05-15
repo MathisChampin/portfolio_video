@@ -21,6 +21,11 @@ const videoData = [
       thumbnail: 'thumbnails/thumb_bourget_card.png',
       videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/salon_du_bourget.mp4',
     },
+    {
+      title: 'Congrès Orlando CHEST ventilation noninvasive',
+      thumbnail: 'thumbnails/thumb_intro_card.jpg',
+      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/INTRO.mp4',
+    },
   ];
   
 

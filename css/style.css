@@ -10,6 +10,10 @@ body {
   
   .main-content {
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
   }
   
   #loader {
@@ -43,18 +47,35 @@ body {
     background: radial-gradient(circle at center, #3a0000, #000);
   }
   
-  header h1 {
+  .site-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 20px 20px;
+    gap: 20px;
+    position: relative;
+  }
+
+
+  .header-left {
+    position: absolute;
+    left: 20px;
+    top: 60%;
+    transform: translateY(-50%);
+  }
+  
+  .site-logo {
+    height: 50px;
+    width: auto;
+  }
+  
+  .site-title {
     font-size: 3rem;
+    color: white;
+    text-align: center;
     margin: 0;
-    color: #fff;
   }
-  
-  header p {
-    font-size: 1.3rem;
-    margin-top: 10px;
-    color: #ccc;
-  }
-  
+
   .carousel-container {
     position: relative;
     margin: 30px auto;

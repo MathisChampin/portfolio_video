@@ -19,12 +19,22 @@ const videoData = [
     {
       title: 'Salon du Bourget UMANN 2023',
       thumbnail: 'thumbnails/thumb_bourget_card.png',
-      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/salon_du_bourget.mp4',
     },
     {
       title: 'Congrès Orlando CHEST ventilation noninvasive',
       thumbnail: 'thumbnails/thumb_intro_card.jpg',
-      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/INTRO.mp4',
+    },
+    {
+      title: 'Respironics CNN',
+      thumbnail: 'thumbnails/Respiration_CNN.png',
+    },
+    {
+      title: 'Childhood Asthma: New ETAC Data Berlin 2001',
+      thumbnail: 'thumbnails/Asthma_Berlin.png',
+    },
+    {
+      title: 'Childhood Asthma: New ETAC Data Prague 2001',
+      thumbnail: 'thumbnails/Asthma_Prague.png',
     },
   ];
   

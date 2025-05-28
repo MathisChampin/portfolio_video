@@ -7,9 +7,9 @@ window.addEventListener("load", () => {
 
 const videoData = [
     {
-      title: 'Bande-annonce de l’Histoire de la ventilation mécanique à domicile',
+      title: 'Film l’Histoire de la ventilation mécanique à domicile',
       thumbnail: 'thumbnails/thumb_homeventilation_card.jpg',
-      videoSrc: 'https://myruesezfkyrfbvyigbg.supabase.co/storage/v1/object/public/videos/bo_ventilation.mp4',
+      videoSrc: 'https://greatalexandria.s3.eu-north-1.amazonaws.com/film_FR.mp4',
     },
     {
       title: 'Oxynov',
